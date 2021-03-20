@@ -10,7 +10,7 @@ Last time, I promise! Only 25 characters this time. Log in as admin Site: http:/
 - None
 
 ## Thought Process
-This challenge looked identical to [Web Gauntlet 2](https://github.com/shari09/ctf-writeups/picoCTF2021/blob/master/Web-Gauntlet-2) so I just tried out the same injection.
+This challenge looked identical to [Web Gauntlet 2](https://github.com/shari09/ctf-writeups/tree/master/picoCTF2021/Web-Gauntlet-2) so I just tried out the same injection.
 
 Injection:
 ```
